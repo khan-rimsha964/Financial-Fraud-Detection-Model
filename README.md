@@ -31,5 +31,5 @@ This repository features projects where I contributed to development, testing, a
  
 ##  Let’s Connect
  
-- [LinkedIn](https://www.linkedin.com/in/rimsha-akhan
+- [LinkedIn] https://www.linkedin.com/in/rimsha-akhan
 - Email: khanrimsha964@gmail.com
